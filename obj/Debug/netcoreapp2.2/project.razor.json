@@ -1,0 +1,14 @@
+{
+  "ProjectFilePath": "/home/switch2logic/project/solidity-vscode-debugger-template/solidity-vscode-unit-test/solidity-vscode-unit-test.csproj",
+  "TargetFramework": "netcoreapp2.2",
+  "TagHelpers": [],
+  "Configuration": {
+    "ConfigurationName": "UnsupportedRazor",
+    "LanguageVersion": "1.0",
+    "Extensions": [
+      {
+        "ExtensionName": "UnsupportedRazorExtension"
+      }
+    ]
+  }
+}

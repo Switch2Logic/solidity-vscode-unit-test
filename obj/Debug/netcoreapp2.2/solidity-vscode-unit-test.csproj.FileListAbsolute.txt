@@ -1,0 +1,16 @@
+/home/switch2logic/project/solidity-vscode-debugger-template/solidity-vscode-unit-test/bin/Debug/netcoreapp2.2/Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+/home/switch2logic/project/solidity-vscode-debugger-template/solidity-vscode-unit-test/bin/Debug/netcoreapp2.2/Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+/home/switch2logic/project/solidity-vscode-debugger-template/solidity-vscode-unit-test/bin/Debug/netcoreapp2.2/Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+/home/switch2logic/project/solidity-vscode-debugger-template/solidity-vscode-unit-test/bin/Debug/netcoreapp2.2/solidity-vscode-unit-test.deps.json
+/home/switch2logic/project/solidity-vscode-debugger-template/solidity-vscode-unit-test/bin/Debug/netcoreapp2.2/solidity-vscode-unit-test.runtimeconfig.json
+/home/switch2logic/project/solidity-vscode-debugger-template/solidity-vscode-unit-test/bin/Debug/netcoreapp2.2/solidity-vscode-unit-test.runtimeconfig.dev.json
+/home/switch2logic/project/solidity-vscode-debugger-template/solidity-vscode-unit-test/bin/Debug/netcoreapp2.2/solidity-vscode-unit-test.dll
+/home/switch2logic/project/solidity-vscode-debugger-template/solidity-vscode-unit-test/bin/Debug/netcoreapp2.2/solidity-vscode-unit-test.pdb
+/home/switch2logic/project/solidity-vscode-debugger-template/solidity-vscode-unit-test/obj/Debug/netcoreapp2.2/solidity-vscode-unit-test.csprojAssemblyReference.cache
+/home/switch2logic/project/solidity-vscode-debugger-template/solidity-vscode-unit-test/obj/Debug/netcoreapp2.2/solidity_vscode_unit_test.GeneratedContracts.SolcOutputData.sol.resources
+/home/switch2logic/project/solidity-vscode-debugger-template/solidity-vscode-unit-test/obj/Debug/netcoreapp2.2/solidity-vscode-unit-test.csproj.GenerateResource.cache
+/home/switch2logic/project/solidity-vscode-debugger-template/solidity-vscode-unit-test/obj/Debug/netcoreapp2.2/solidity-vscode-unit-test.csproj.CoreCompileInputs.cache
+/home/switch2logic/project/solidity-vscode-debugger-template/solidity-vscode-unit-test/obj/Debug/netcoreapp2.2/solidity-vscode-unit-test.AssemblyInfoInputs.cache
+/home/switch2logic/project/solidity-vscode-debugger-template/solidity-vscode-unit-test/obj/Debug/netcoreapp2.2/solidity-vscode-unit-test.AssemblyInfo.cs
+/home/switch2logic/project/solidity-vscode-debugger-template/solidity-vscode-unit-test/obj/Debug/netcoreapp2.2/solidity-vscode-unit-test.dll
+/home/switch2logic/project/solidity-vscode-debugger-template/solidity-vscode-unit-test/obj/Debug/netcoreapp2.2/solidity-vscode-unit-test.pdb
